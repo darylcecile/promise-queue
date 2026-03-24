@@ -1,6 +1,6 @@
 {
   "name": "@darylcecile/promise-queue",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A promise queue, task queue with concurrency control, and retryable utility",
   "type": "module",
   "main": "dist/index.js",
